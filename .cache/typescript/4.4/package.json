@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "dependencies": {
+    "types-registry": "^0.1.685"
+  },
+  "devDependencies": {
+    "@types/domready": "^1.0.0",
+    "@types/node": "^20.6.0",
+    "@types/ssh2-streams": "^0.1.9"
+  }
+}
